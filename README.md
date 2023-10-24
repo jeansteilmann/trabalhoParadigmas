@@ -12,8 +12,8 @@ Uma vez que você tenha o GHC instalado, você pode compilar e executar o progra
 
 1. Abra um terminal.
 2. Navegue até o diretório que contém o arquivo do programa.
-3. Compile o programa usando o comando `ghc -o tasks tasks.hs`.
-4. Execute o programa usando o comando `./tasks`.
+3. Compile o programa usando o comando `ghc -o main main.hs`.
+4. Execute o programa usando o comando `./main`.
 
 Alternativamente, você também pode executar este código no Repl.it, uma plataforma online para execução de código.
 
